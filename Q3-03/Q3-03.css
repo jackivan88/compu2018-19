@@ -1,6 +1,7 @@
 body {
     background-color: coral;
     font-family: serif;
+    font-size: 1.5em;
     margin: auto;
     max-width: 800px;
 }
