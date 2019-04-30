@@ -1,0 +1,10 @@
+body {
+    background-color: coral;
+    font-family: serif;
+    margin: auto;
+    max-width: 800px;
+}
+
+video {
+    max-width: 100%;
+}
